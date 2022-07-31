@@ -5,6 +5,7 @@
 - 🔭 I'm currently studying on Faculty of Engineering. 
 - python C#
 -I interested in programing and network
+[![image]([https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv])](#)
 
 ## Developer Tech
 
