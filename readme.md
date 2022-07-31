@@ -2,7 +2,9 @@
 
 - 😄 My name is: Punnawit Pamee
 - ⚡ Student id: 63364017
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 🔭 I'm currently studying on Faculty of Engineering. 
+- python C#
+-I interested in programing and network
 
 ## Developer Tech
 
@@ -31,6 +33,9 @@
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
+  <a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 </P>
 
@@ -48,9 +53,7 @@
 
 ## Devices / Manufacturers
 <p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
+
 
 <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
